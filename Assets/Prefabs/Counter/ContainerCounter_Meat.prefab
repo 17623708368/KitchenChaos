@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &481653504661173704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 130232219116461298, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ddeee0face48cd346be478cda5ba7071, type: 2}
+    - target: {fileID: 3339465182418051100, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b,
+        type: 3}
+    - target: {fileID: 5230036844733806821, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_Name
+      value: ContainerCounter_Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762505630504958646, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6703346079946853031, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b,
+        type: 3}
+    - target: {fileID: 7366840318014133107, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: kitchenObjSo
+      value: 
+      objectReference: {fileID: 11400000, guid: 4760945a07aa6b445a78ab7ec6a290c0,
+        type: 2}
+    - target: {fileID: 7509618968602300149, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 4103115589
+      objectReference: {fileID: 0}
+    - target: {fileID: 7589520665074247318, guid: f9e9bbceb4a47434193551b995a8e699,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ddeee0face48cd346be478cda5ba7071, type: 2}
+    m_RemovedComponents:
+    - {fileID: 7948337240913646712, guid: f9e9bbceb4a47434193551b995a8e699, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f9e9bbceb4a47434193551b995a8e699, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c787ec95d9fde4f4b971dc31975d9a4f, type: 3}
+  m_Name: CheeseBlock-CheeseBlockSlices
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 16b3b1ff930eb4e4d8594159aab13a06, type: 2}
+  outInput: {fileID: 11400000, guid: e7f2ae6d29ef7d147bc146ee8d3ff57b, type: 2}
+  maxCount: 4
